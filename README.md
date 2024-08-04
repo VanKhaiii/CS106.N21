@@ -31,7 +31,7 @@
 ### Giới thiệu đồ án: 
 Vấn đề định tuyến cho xe điện (EVRP) đã thu hút sự chú ý đáng kể trong những năm gần đây do sự phát triển nhanh chóng của xe điện (EV) và những thách thức liên quan đến việc lập kế hoạch tuyến đường hiệu quả cho chúng. EVRP kết hợp Vấn đề định tuyến xe cổ điển (VRP) với các ràng buộc bổ sung do xe điện đặt ra, chẳng hạn như phạm vi hoạt động giới hạn và nhu cầu sạc điện. Bài báo nghiên cứu này trình bày một sự so sánh toàn diện các phương pháp khác nhau được sử dụng để giải quyết EVRP. Mục tiêu là xác định các điểm mạnh và yếu của những phương pháp này, tính ứng dụng của chúng trong các kịch bản khác nhau, và những hướng nghiên cứu tiềm năng trong tương lai.
 
-<img src = "https://github.com/VanKhaiii/CS114.N21/blob/main/Images/image.png">
+<img src = "https://github.com/VanKhaiii/CS106.N21/blob/main/Images/An-example-solution-for-EVRP.ppm">
 
 <!-- Footer -->
 <p align='center'>Copyright © 2022 - Trương Văn Khải</p>
